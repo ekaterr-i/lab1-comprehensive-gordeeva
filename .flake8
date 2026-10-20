@@ -1,0 +1,4 @@
+
+max-line-length = 80
+exclude = .git,__pycache__,build,dist
+max-complexity = 10
